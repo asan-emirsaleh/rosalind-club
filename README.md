@@ -2,7 +2,7 @@
 
 # Anti-rosalind Rosalind club
 
-<a href="Here we are"><img src="/TAs.jpg" align="right" height="512" width="384" ></a>
+<a href="Here we are"><img src="/TAs.jpg" align="right" height="441" width="348" ></a>
 
 This is the repository of Skoltech students club on solving bioinformatics problems from [Rosalind](https://rosalind.info/problems/locations/) platform.
 
