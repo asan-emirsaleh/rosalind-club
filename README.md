@@ -14,5 +14,7 @@ In [Seminars](https://github.com/ombystoma-young/rosalind-club/tree/main/Seminar
 
 For now you can find us at Skoltech in room B4-3007 on Tuesdays 10 AM till 11:30 AM.
 
+![Here we are](/relative/path/to/TAs.jpg?raw=true "Here we are")
+
 ---
 <div align="center">Skoltech, 2022</div>
