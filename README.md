@@ -4,7 +4,7 @@
 
 This is the repository of Skoltech students club on solving bioinformatics problems from [Rosalind](https://rosalind.info/problems/locations/) platform.
 
-<a "Here we are"><img src="/TAs.jpg" align="right" height="368.8" width="325" ></a>
+<a href="https://www.skoltech.ru/"><img src="/TAs.jpg" align="right" height="368.8" width="325" ></a>
 
 #### Teahing assistants:
 
