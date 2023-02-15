@@ -6,7 +6,7 @@ This is the repository of Skoltech students club on solving bioinformatics probl
 
 <a href="https://www.skoltech.ru/"><img src="/TAs.jpg" align="right" height="368.8" width="325" ></a>
 
-#### Teahing assistants:
+#### Teaching assistants:
 
 > Nikita Vaulin, Skoltech, tg: @nvaulin <br />
 > Nikita.Vaulin@skoltech.ru
